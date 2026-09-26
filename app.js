@@ -25,8 +25,13 @@
 
   // ---------- 起動 ----------
   async function boot() {
+    // LIFF は描画を待たせない（外部ブラウザで init が返らないケースがあるため並行実行）
+    let liffReady = Promise.resolve(false);
     if (CFG.LIFF_ID && window.liff) {
-      try { await liff.init({ liffId: CFG.LIFF_ID }); } catch (e) { console.warn('LIFF init failed', e); }
+      liffReady = Promise.race([
+        liff.init({ liffId: CFG.LIFF_ID }).then(() => true),
+        new Promise(r => setTimeout(() => r(false), 5000))
+      ]).catch(e => { console.warn('LIFF init failed', e); return false; });
     }
     try {
       DATA = await load();
@@ -47,6 +52,7 @@
     }
     bindUI();
     render();
+    liffReady.then(ok => { if (ok && V) renderInfo(); });
   }
 
   async function load() {
