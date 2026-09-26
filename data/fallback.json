@@ -1,0 +1,1062 @@
+{
+ "booths": [
+  {
+   "venue_id": "toyosu",
+   "booth_id": "arcobrau",
+   "no": 1,
+   "name_ja": "アルコブロイ",
+   "name_en": "Arcobräu",
+   "copy": "修道院伝統の味、ピュアな一杯",
+   "description": "バイエルン州の伝統ある醸造所。上質な天然水とこだわりの原料で、クリアな味わいのビールを醸造。",
+   "logo_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/logo-booth-list-arcobrau2024.png",
+   "tips": "修道院で生まれたレシピを今も受け継いでおり、醸造所の見学ツアーが人気。",
+   "catch": "修道院伝統の味を楽しめるピュアな一杯"
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "paulaner",
+   "no": 2,
+   "name_ja": "パウラーナー",
+   "name_en": "Paulaner",
+   "copy": "修道士が愛した、本物の味",
+   "description": "ミュンヘンを代表する醸造所で、オクトーバーフェスト公式ビールメーカーのひとつ。伝統的な修道士ビールからラガーまで幅広いラインナップを展開。",
+   "logo_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/logo-booth-list-paulaner.png",
+   "tips": "世界最大のビール祭り「オクトーバーフェスト」で公式に提供される「ミュンヘン6大醸造所」の一つ",
+   "catch": "修道士に愛された本物の味わい"
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hofbrau",
+   "no": 3,
+   "name_ja": "ホフブロイ",
+   "name_en": "Hofbrau",
+   "copy": "王家も愛した、格式ある味わい",
+   "description": "バイエルン州政府所有のミュンヘンの名門醸造所。オクトーバーフェスト公式ビールの提供元で、かつては王家専用の醸造所としても知られていた。",
+   "logo_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/logo-booth-list-hofbrau2024.png",
+   "tips": "ホフブロイハウス（Hofbräuhaus）は、王室専用のビールとしてバイエルン公「ヴェルヘルム5世」が宮廷で働く家臣のために作った。",
+   "catch": "王家も認めた格式高い伝統の味"
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hacker",
+   "no": 4,
+   "name_ja": "ハッカープショール",
+   "name_en": "Hacker Pschorr",
+   "copy": "ミュンヘンの歴史が詰まった一杯",
+   "description": "ミュンヘンの伝統的な醸造所で、モルティな味わいとコクのあるラガービールが特徴。19世紀にはミュンヘンで特に人気のあった醸造所のひとつ。",
+   "logo_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/logo-booth-list-hacker2024.png",
+   "tips": "19世紀にミュンヘンで最も人気のあった醸造所で、当時のビール文化を大きく支えた。",
+   "catch": "ミュンヘンの歴史が詰まったこだわりの一杯"
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hirsch",
+   "no": 5,
+   "name_ja": "ヒルシュブロイ",
+   "name_en": "Der Hirschbräu",
+   "copy": "アルゴイの自然が生んだ伝統の味",
+   "description": "アルゴイ地方の老舗醸造所。高品質な天然水と伝統的な製法にこだわり、長期熟成による深い味わいのビールを醸造。",
+   "logo_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/logo-booth-list-newglanz2024.png",
+   "tips": "「鹿のビール」という意味を持ち、ラベルには立派な鹿のロゴが描かれている。",
+   "catch": "アルゴイの豊かな自然が生んだ伝統の味"
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "karmeliten",
+   "no": 6,
+   "name_ja": "カーメリテン",
+   "name_en": "Karmeliten",
+   "copy": "350年の伝統、未来へつなぐ一杯",
+   "description": "1676年創業の修道院系醸造所。伝統的な製法を守りながらも、新しいスタイルのビールにも挑戦。",
+   "logo_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/logo-booth-list-karmeliten2024.png",
+   "tips": "2019年、持続可能なエネルギーだけで醸造を行う「ゼロエミッションビール」を発表。",
+   "catch": "350年の伝統を未来へつなぐ一杯"
+  }
+ ],
+ "menus": [
+  {
+   "venue_id": "toyosu",
+   "booth_id": "arcobrau",
+   "category": "drink",
+   "name": "ヴァイスビア",
+   "price": "",
+   "description": "バナナやクローブを思わせる華やかな香りと、やわらかくクリーミーな口当たりが特徴のドイツ伝統の白ビール。小麦麦芽由来のまろやかなコクと爽やかな酸味が絶妙に調和し、後味はすっきり。ビールが苦手な方にも飲みやすい一杯です。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu1-1.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 1
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "arcobrau",
+   "category": "drink",
+   "name": "シュロスドゥンケル",
+   "price": "",
+   "description": "ローストモルトの香ばしさと、ほのかなカラメルの甘みが広がる濃色ビール。コク深くまろやかな味わいながら、後味はすっきりと飲みやすいのが特徴。芳醇な香りとやさしい苦味のバランスが良く、食事とともに楽しめる一杯です。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu1-2.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 2
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "arcobrau",
+   "category": "food",
+   "name": "フライドポテト付き メガ盛りムール貝",
+   "price": "",
+   "description": "食べても食べてもムール貝。迫力満点のボリュームと食べたらやみつきになるおいしさぷりぷりです。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu1-1.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 3
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "arcobrau",
+   "category": "food",
+   "name": "ぐるぐるソーセージ",
+   "price": "",
+   "description": "外はパリッと中はジューシー！ぐるぐる巻きのソーセージを豪快に焼き上げ、香ばしい旨みが口いっぱいに広がります。ビールとの相性は抜群で、食べ歩きにもぴったりの人気ワンハンドフードです。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu1-2.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 4
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "arcobrau",
+   "category": "limited",
+   "name": "ビール1杯20円（平日限定・先着20名様）",
+   "price": "20円",
+   "description": "平日限定先着20名様！\nアルコブロイブースのビールが1杯20円！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/S__30122017_0.jpg",
+   "start_date": "2026-09-29",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 5
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "paulaner",
+   "category": "drink",
+   "name": "ヘフェヴァイス",
+   "price": "",
+   "description": "小麦を原料に醸造した白濁系のビールです。50％以上の小麦を使用し良質なビール酵母を使用しています。白濁したクリーミーな泡立ち、やさしい酵母の甘味を感じられフルーティーでまろやかな喉越しの良いビールです。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu3-1.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 6
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "paulaner",
+   "category": "drink",
+   "name": "サルバトーレ",
+   "price": "",
+   "description": "元々はバイエルンでキリスト教の断食期間中に栄養を取るために修道士たちが醸造したビール。\n通常のビールよりも麦芽エキス濃度が高く、ロースト麦芽の甘味が強く芳醇で重厚なモルトの風味が最高。\nホップは控えめで麦芽風味が強い。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu3-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 7
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "paulaner",
+   "category": "food",
+   "name": "ボルケーノチーズピザ",
+   "price": "",
+   "description": "その名の通り、中央にたっぷりのとろけるチーズを湛えた「火山のピザ」が登場！香ばしく焼き上げたクリスピーな生地に、お好みで濃厚なチーズを絡めながら召し上がれ。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu2-1.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 8
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "paulaner",
+   "category": "food",
+   "name": "プレミアローストビーフ",
+   "price": "",
+   "description": "厳選した牛肉をじっくり丁寧に焼き上げ、旨味を凝縮させた自慢のローストビーフです。口の中でとろけるような柔らかさと、肉本来の濃い味わいが楽しめます。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu2-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 9
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "paulaner",
+   "category": "limited",
+   "name": "20周年ドリンク＆フードセット",
+   "price": "2,000円",
+   "description": "パウラーナーのヘフェヴァイスとブラッターマルゲリータがセットになった20周年特別セットが2000円！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/S__30122019_0.jpg",
+   "start_date": "2026-09-29",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 10
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hofbrau",
+   "category": "drink",
+   "name": "ホフブロイ ヴァイスビア",
+   "price": "",
+   "description": "世界最大のビール祭り、ミュンヘン・オクトーバーフェスト公式醸造所「ホフブロイ」の看板ビールです。小麦麦芽をふんだんに使用し、バナナのようなフルーティーな香りと、酵母由来の白濁したまろやかなコクが特徴。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu4-1.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 11
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hofbrau",
+   "category": "drink",
+   "name": "ホフブロイ ラガー",
+   "price": "",
+   "description": "爽快な黄金色のラガービールです。厳選された麦芽のほのかな甘みと、絶妙なホップの苦みがバランス良く調和し、驚くほどスッキリとした飲み口が楽しめます",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu4-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 12
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hofbrau",
+   "category": "food",
+   "name": "ラムチョップ",
+   "price": "",
+   "description": "厳選した柔らかなラム肉を、ローズマリーと共に香り高く焼き上げました。クセの少ない上質な脂の甘みと、噛むほどに広がるジューシーな旨味",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu3-1.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 13
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hofbrau",
+   "category": "food",
+   "name": "サーモンバタームニエル",
+   "price": "",
+   "description": "脂ののった厚切りのサーモンを、香ばしいガーリックとバターでジューシーに焼き上げました。仕上げのレモンが爽やかに香り、ドイツビールとの相性は抜群！付け合わせのザワークラウトやピクルスと共に、本場ドイツを存分に味わえる贅沢な一皿です。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu3-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 14
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hofbrau",
+   "category": "limited",
+   "name": "20周年ドリンク＆フードセット",
+   "price": "2,000円",
+   "description": "オクトーバーフェストビアとチーズトルネードソーセージが付いた特別セットが2000円！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/S__30122018_0.jpg",
+   "start_date": "2026-09-29",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 15
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hacker",
+   "category": "drink",
+   "name": "へフェヴァイスビア",
+   "price": "",
+   "description": "オクトーバーフェスト公式醸造所人気No.1商品\"ハッカープショール　ヘフェヴァイスビア\"はフルーティーの代名詞です。\n絹のような滑らかでクリーミーな泡と柑橘系の酸味、蜂蜜のような甘み、長い余韻は飲む人を虜にします。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9%E3%83%93%E3%82%A2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 16
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hacker",
+   "category": "drink",
+   "name": "アノ１４１７ナチュラルケラー",
+   "price": "",
+   "description": "ハッカープショール　アノ1417ナチュラルケラー\"は希少価値の高い幻のラガービールです。地下に浮遊する天然酵母で発酵させ、非加熱・無濾過で醸造されました。豊かな泡立ちと軽やかなホップ香り、優しい舌触りが特徴の白濁した黄金色ビールをご堪能ください。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/5_%E3%82%A2%E3%83%8E1417%E3%82%B1%E3%83%A9%E3%83%BC.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 17
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hacker",
+   "category": "food",
+   "name": "山盛り！サイコロステーキ",
+   "price": "",
+   "description": "当店の名物！ダントツ人気メニューです。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu4-1.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 18
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hacker",
+   "category": "food",
+   "name": "カリーヴルストソーセージ",
+   "price": "",
+   "description": "鉄板焼きならではの香ばしい風味と、カレーの風味が最高にマッチします！\nドイツ屋台の定番グルメ！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/%E3%82%AB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B9%E3%83%88%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 19
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hacker",
+   "category": "limited",
+   "name": "2,000べろセット",
+   "price": "2,000円",
+   "description": "お好きなビール300ml×2杯＋ソーセージ5本＋フライドポテト＋ザワークラウト盛り合わせが2,000円",
+   "image_url": "",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 20
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hirsch",
+   "category": "drink",
+   "name": "ヒルシュブロイ　ドゥンケルドッペルボック",
+   "price": "",
+   "description": "金賞受賞黒ビール！チョコレート風味の飲みやすい飲み心地とモルトの優しい甘み。黒ビールなのに苦すぎず、まろやかで飲みやすい！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu5-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 21
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hirsch",
+   "category": "drink",
+   "name": "ヒルシュブロイ　ヒルシュゴールド",
+   "price": "",
+   "description": "ビール界のオリンピックで世界一に選ばれた唯一無二のエクスポートラガー！麦の旨みと爽快なキレ、日本でここでしか飲めない奇跡の黄金ラガー！日本人好みの、乾杯にぴったりな喉越し抜群爽快ビールです！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu5-3.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 22
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hirsch",
+   "category": "food",
+   "name": "ドイツビール蒸しレモンバタームール貝",
+   "price": "",
+   "description": "ぷりぷりのムール貝を、爽やかなレモンと濃厚なバターで贅沢に仕上げました。貝の旨みが溶け込んだコク深い味わいに、レモンの酸味がアクセント！あと味はさっぱり、ビールとの相性も抜群のオクトーバーフェストにぴったりな一品です。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu5-1.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 23
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hirsch",
+   "category": "food",
+   "name": "炙りチーズの本格ドイツソーセージ6本盛り合わせ",
+   "price": "",
+   "description": "本場ドイツの製法で作ったオリジナルソーセージを贅沢に6本盛り合わせ！個性豊かなソーセージに、香ばしく炙った濃厚チェダーチーズをたっぷりとかけました！肉汁あふれる旨みとコク深いチーズが織りなす、ビールが止まらない人気No.1メニューです！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu5-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 24
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "hirsch",
+   "category": "limited",
+   "name": "ヒルシュブロイとドイツバターインプレッツェルのセット",
+   "price": "2,000円",
+   "description": "ドイツ直輸入のバターインプレッツェルとお好きなビールが選べる20周年特別メニューです！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu5-3.jpg",
+   "start_date": "2026-09-29",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 25
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "karmeliten",
+   "category": "drink",
+   "name": "カーメリテン ウアテュープ",
+   "price": "",
+   "description": "グラスから立ち上がるのは、モルトの柔らかな甘みと、上品なホップの香り。一口飲めば、雑味のない非常にクリーンな喉越しとともに、麦の奥深いコクが広がります。キレが良く、どんな料理にも寄り添う万能な一杯です。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu2-1.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 26
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "karmeliten",
+   "category": "drink",
+   "name": "カーメリテン クロスタードゥンケル",
+   "price": "",
+   "description": "修道院の伝統製法を守り続ける「カーメリテン」。その代表作であるドゥンケルは、キャラメルのような芳醇な甘みと、ナッツを思わせる香ばしさが絶妙に調和した、深みのある味わいです。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-drink-toyosu2-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 27
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "karmeliten",
+   "category": "food",
+   "name": "カーメリテンスペシャルプレート",
+   "price": "",
+   "description": "当店の魅力を凝縮した、圧巻のコンビネーションプレートです。溢れる肉汁の特製ソーセージや厚切りベーコン、旨味が凝縮されたムール貝、さらに彩り豊かな温野菜のスープまで、多彩な味わいを詰め込みました。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu6-1.png",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 28
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "karmeliten",
+   "category": "food",
+   "name": "海老とムール貝の贅沢チーズグリル",
+   "price": "",
+   "description": "ぷりぷりの海老と、磯の香り豊かなムール貝を主役に、彩り豊かな野菜を添えて香ばしく焼き上げました。",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/img-food-toyosu6-2.jpg",
+   "start_date": "",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 29
+  },
+  {
+   "venue_id": "toyosu",
+   "booth_id": "karmeliten",
+   "category": "limited",
+   "name": "20周年ドリンク＆フードセット",
+   "price": "2,000円",
+   "description": "カーメリテンのお好きなビールとその日のミニおつまみ盛り合わせが2000円で販売！",
+   "image_url": "https://www.oktober-fest.jp/lalaport_toyosu/menu/images/menu/6.0825%E3%82%AB%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%86%E3%83%B3.jpg",
+   "start_date": "2026-09-29",
+   "end_date": "",
+   "visible": "TRUE",
+   "sort": 30
+  }
+ ],
+ "schedule": [
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-18",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "たつ（マジック）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-19",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "まちかどクイズ（クイズ）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-20",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "たつ（マジック）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-21",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "まちかどクイズ（クイズ）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-22",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "ムーラン（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-23",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "ムーラン（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-24",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "MAKi（ジャグリング）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-25",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "キャラ屋川下（似顔絵）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-26",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "ムーラン（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-27",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "たつ（マジック）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-28",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "リオ（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-29",
+   "time": "",
+   "type": "event",
+   "title": "20周年限定メニュー販売開始",
+   "description": "各ブースで「20」にちなんだ限定メニューが登場。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-29",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "MAKi（ジャグリング）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-30",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "リオ（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-01",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "MAKi（ジャグリング）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-02",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "リオ（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-03",
+   "time": "",
+   "type": "event",
+   "title": "感謝の20リットルビール",
+   "description": "「20」にちなんで、20リットルのビールを来場者みんなでシェアする参加型企画。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-03",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "まちかどクイズ（クイズ）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-04",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "たつ（マジック）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-05",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "リオ（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-06",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "MAKi（ジャグリング）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-07",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "まちかどクイズ（クイズ）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-08",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "リオ（バルーンアート）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-09",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "MAKi（ジャグリング）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-10",
+   "time": "",
+   "type": "event",
+   "title": "感謝の20リットルビール",
+   "description": "「20」にちなんで、20リットルのビールを来場者みんなでシェアする参加型企画。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-10",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "たつ（マジック）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-11",
+   "time": "",
+   "type": "event",
+   "title": "感謝の20リットルビール",
+   "description": "「20」にちなんで、20リットルのビールを来場者みんなでシェアする参加型企画。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-11",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "まちかどクイズ（クイズ）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-12",
+   "time": "",
+   "type": "event",
+   "title": "感謝の20リットルビール",
+   "description": "「20」にちなんで、20リットルのビールを来場者みんなでシェアする参加型企画。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-12",
+   "time": "開催時間中（不定期）",
+   "type": "stage",
+   "title": "サトス（弾き語り）",
+   "description": "OktoberLIVE&WALK：レーダーホーゼン／ディアンドル姿のパフォーマーによる「流し」パフォーマンス。開催時間中に不定期で開催。",
+   "visible": "TRUE"
+  }
+ ],
+ "venues": [
+  {
+   "venue_id": "toyosu",
+   "name": "オクトーバーフェスト2026 in アーバンドック ららぽーと豊洲",
+   "short_name": "豊洲",
+   "start_date": "2026-09-18",
+   "end_date": "2026-10-12",
+   "hours": "平日 16:00～21:30／土・日・祝 11:00～21:30（L.O. 21:00）",
+   "fee": "入場無料",
+   "place": "アーバンドック ららぽーと豊洲 中庭シーサイドデッキ（東京都江東区豊洲2丁目4−9）",
+   "access": "東京メトロ有楽町線 豊洲駅2b出口直結／ゆりかもめ 豊洲駅直結",
+   "map_image": "assets/map-toyosu.jpg",
+   "active": "TRUE",
+   "notes": "雨天決行（荒天時は中止）。会場内は禁煙（所定の喫煙所をご利用ください）。未成年の飲酒・飲酒運転は固くお断りします。セルフサービスです。グラス・食器の片付けにご協力ください。",
+   "drive_folder_id": "1HDlosdWK81-Jxr958pVACLHXnRpH1bXM"
+  }
+ ],
+ "spots": [
+  {
+   "venue_id": "toyosu",
+   "spot_id": "arcobrau",
+   "type": "booth",
+   "label": "① アルコブロイ",
+   "x": 48.8,
+   "y": 72.5,
+   "booth_id": "arcobrau",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "paulaner",
+   "type": "booth",
+   "label": "② パウラーナー",
+   "x": 57.2,
+   "y": 72.5,
+   "booth_id": "paulaner",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "hofbrau",
+   "type": "booth",
+   "label": "③ ホフブロイ",
+   "x": 68.6,
+   "y": 72.5,
+   "booth_id": "hofbrau",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "hacker",
+   "type": "booth",
+   "label": "④ ハッカー・プショール",
+   "x": 78.8,
+   "y": 61.5,
+   "booth_id": "hacker",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "hirsch",
+   "type": "booth",
+   "label": "⑤ ヒルシュブロイ",
+   "x": 78.8,
+   "y": 47,
+   "booth_id": "hirsch",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "karmeliten",
+   "type": "booth",
+   "label": "⑥ カーメリテン",
+   "x": 78.8,
+   "y": 32.5,
+   "booth_id": "karmeliten",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "info",
+   "type": "facility",
+   "label": "インフォメーション",
+   "x": 42.2,
+   "y": 29,
+   "booth_id": "",
+   "description": "各種お問い合わせ。日本橋方面からお越しの方へ「300円チケットプレゼント券」を配布（Nihonbashi e-LINERコラボ）。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "amusement",
+   "type": "facility",
+   "label": "アミューズメントテント",
+   "x": 46.5,
+   "y": 29,
+   "booth_id": "",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "dog",
+   "type": "facility",
+   "label": "わんちゃん用ドリンク＆フード",
+   "x": 44.2,
+   "y": 36,
+   "booth_id": "",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "trash",
+   "type": "facility",
+   "label": "ゴミステーション＆手洗いシンク",
+   "x": 52.3,
+   "y": 29,
+   "booth_id": "",
+   "description": "リユースカップお持ち帰り用の袋あり。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "photo",
+   "type": "facility",
+   "label": "フォトスポット",
+   "x": 29.8,
+   "y": 53.5,
+   "booth_id": "",
+   "description": "「アーバンドック ららぽーと豊洲 20周年」フォトモニュメント。ワンちゃんとも撮りやすいフォトスポットです。",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "kids",
+   "type": "facility",
+   "label": "キッズパーク",
+   "x": 83.8,
+   "y": 9.5,
+   "booth_id": "",
+   "description": "",
+   "visible": "TRUE"
+  },
+  {
+   "venue_id": "toyosu",
+   "spot_id": "pier",
+   "type": "facility",
+   "label": "豊洲船着場方面",
+   "x": 4.5,
+   "y": 26.7,
+   "booth_id": "",
+   "description": "Nihonbashi e-LINER：会場で合計2,000円以上お買い上げのレシート提示で、大人2名まで片道乗船運賃1,000円（当日空席がある場合に限る）。",
+   "visible": "TRUE"
+  }
+ ],
+ "days": [
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-18",
+   "highlight": "「たつ」によるマジックショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-19",
+   "highlight": "参加型イベント「まちかどクイズ」を開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-20",
+   "highlight": "「たつ」によるマジックショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-21",
+   "highlight": "参加型イベント「まちかどクイズ」を開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-22",
+   "highlight": "「ムーラン」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-23",
+   "highlight": "「ムーラン」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-24",
+   "highlight": "「MAKi」によるジャグリングショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-25",
+   "highlight": "「キャラ屋川下」による似顔絵コーナーが登場"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-26",
+   "highlight": "「ムーラン」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-27",
+   "highlight": "「たつ」によるマジックショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-28",
+   "highlight": "「リオ」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-29",
+   "highlight": "20周年限定メニュー開始＆MAKiパフォーマンス"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-09-30",
+   "highlight": "「リオ」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-01",
+   "highlight": "「MAKi」によるジャグリングショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-02",
+   "highlight": "「リオ」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-03",
+   "highlight": "感謝の20リットルビール＆まちかどクイズ"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-04",
+   "highlight": "「たつ」によるマジックショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-05",
+   "highlight": "「リオ」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-06",
+   "highlight": "「MAKi」によるジャグリングショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-07",
+   "highlight": "参加型イベント「まちかどクイズ」を開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-08",
+   "highlight": "「リオ」によるバルーンアートを披露"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-09",
+   "highlight": "「MAKi」によるジャグリングショーを開催"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-10",
+   "highlight": "感謝の20リットルビール＆たつマジックショー"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-11",
+   "highlight": "感謝の20リットルビール＆まちかどクイズ"
+  },
+  {
+   "venue_id": "toyosu",
+   "date": "2026-10-12",
+   "highlight": "感謝の20リットルビール＆サトス弾き語り"
+  }
+ ],
+ "copy": [
+  {
+   "venue_id": "toyosu",
+   "key": "app_title",
+   "value": "オクトーバーフェスト会場MAP"
+  },
+  {
+   "venue_id": "toyosu",
+   "key": "app_subtitle",
+   "value": "ららぽーと豊洲で楽しむ本場のビールとステージ"
+  },
+  {
+   "venue_id": "toyosu",
+   "key": "welcome",
+   "value": "ブース位置や日替わりパフォーマンス、企画情報をマップ上で確認できます。"
+  },
+  {
+   "venue_id": "toyosu",
+   "key": "howto",
+   "value": "[\"マップのピンをタップして詳細表示\", \"各ブースのメニューや特徴を確認\", \"日別スケジュールでイベントを検索\"]"
+  },
+  {
+   "venue_id": "toyosu",
+   "key": "tab_labels",
+   "value": "{\"map\": \"会場マップ\", \"menu\": \"ブース一覧\", \"schedule\": \"日別日程\", \"info\": \"開催概要\"}"
+  },
+  {
+   "venue_id": "toyosu",
+   "key": "footer_notice",
+   "value": "飲酒は20歳になってから。節度ある適度なお酒を楽しみましょう。"
+  }
+ ],
+ "photos": []
+}
